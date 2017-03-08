@@ -61,7 +61,7 @@
 #   }
 
 # ec2-52-90-143-7
-server 'ec2-52-90-143-7', user: 'deploy', roles: %w{web app db}
+server '52-90-143-7', user: 'deploy', roles: %w{web app db}
 
 
 
